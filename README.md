@@ -1,2 +1,2 @@
 # MLP
-Coding a Multilayer Perceptron to train and test on MNIST data
+Implementing a basic Multilayer Perceptron (MLP) to train and test on MNIST data.
