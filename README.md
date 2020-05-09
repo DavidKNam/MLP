@@ -1,5 +1,5 @@
 # Multilayer Neural Network
-Implementing a basic Multilayer Neural Network (MNN) to train and test on the MNIST data.
+Main Objective: Implementing a basic Multilayer Neural Network (MNN) to train and test on the MNIST data.
 
 Task 1:
 Implement a single hidden layer neural network and test the network on the XOR problem.
