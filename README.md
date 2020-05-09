@@ -1,4 +1,4 @@
-# MNN
+# Multilayer Neural Network
 Implementing a basic Multilayer Neural Network (MNN) to train and test on the MNIST data.
 
 Task 1:
